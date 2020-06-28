@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "enti",
-    "slug": "enti",
+    "name": "My App",
+    "slug": "my-app",
     "platforms": [
       "ios",
       "android",
